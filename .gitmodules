@@ -1,3 +1,6 @@
 [submodule "deepseek-harness"]
 	path = deepseek-harness
 	url = https://github.com/deepseek-ai/deepseek-harness.git
+[submodule "deepseek-harness-cordis-paper"]
+	path = deepseek-harness-cordis-paper
+	url = https://github.com/cordiverse/paper.git
